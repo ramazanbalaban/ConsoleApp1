@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Merhaba dünya");
             Console.Write("Ramazan");
-            Console.WriteLine("balaban");
+            Console.WriteLine(" Balaban");
         }
     }
 }
